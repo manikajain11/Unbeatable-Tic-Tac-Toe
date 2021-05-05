@@ -5,11 +5,11 @@
 }
 
 body {
-    color: #545454;
+    background-color: #aad8d3;
+    color: #393e46;
+    font-family: sans-serif;    
     display: flex;
-    font-family: sans-serif;
     justify-content: center;
-    background-color:black;
 }
 
 .container{
@@ -49,6 +49,9 @@ body {
     width: 100px; 
     font-size: 70px;
     text-align: center;
+    font-family: sans-serif;
+    padding-top: 10px;
+    color: #393e46;
 }
 
 .endgame{
@@ -77,7 +80,7 @@ body {
 }
 
 .btn:hover{
-    background: black;
+    background: #393e46;
     color: white;
 }
 
